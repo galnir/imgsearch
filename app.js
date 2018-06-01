@@ -4,7 +4,7 @@ const bodyParser = require('body-parser');
 const mongoose = require('mongoose');
 const GoogleImages = require('google-images');
 const app = express();
-var client = new GoogleImages(CSE_ID, API_KEY);
+var client = new GoogleImages(process.env.CSE_ID, process.env.API_KEY);
 
 mongoose.connect("mongodb://localhost/imgsearch");
 
