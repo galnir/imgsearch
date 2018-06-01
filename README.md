@@ -8,6 +8,7 @@
 **User Story:** I can get a list of the most recently submitted search strings.
 
 Search images:
+
 https://imgsearchmicroservice.glitch.me/imagesearch/image?offset=1
 
 Recently submitted searches:
