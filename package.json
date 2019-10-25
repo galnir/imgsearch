@@ -12,6 +12,6 @@
     "body-parser": "^1.18.2",
     "express": "^4.16.3",
     "google-images": "^2.1.0",
-    "mongoose": "^5.1.0"
+    "mongoose": "^5.7.5"
   }
 }
